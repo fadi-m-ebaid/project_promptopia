@@ -2,7 +2,7 @@
 
 import React from 'react'
 import { useState, useEffect } from 'react'
-import { useRouter, useSearchParams } from 'next/navigation'
+import { useSearchParams } from 'next/navigation'
 
 import Profile from '@components/Profile'
 
